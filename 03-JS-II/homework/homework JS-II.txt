@@ -1,5 +1,5 @@
 for:
-  Los bucles for sirven para que se repita un bloque de códigos una cantidad de ciertas veces para no estar escribiendo las mismas lineas de código. Esto fasilita la lectura y acorta el tiempo de tipeo.
+  Los bucles for sirven para que se repita un bloque de códigos una cantidad de ciertas veces para no estar escribiendo las mismas lineas de código. Esto fasilita la lectura y acorta el tiempo de tipeo. Tambien se lo utiliza para siertas consinas que no se podrian resolver de otra manera, como devolver del 1 al N.
 
 Operadores lógicos:
   Los operadores lógicos se utilizan para unir de diferentes maneras dos condiciones de un ciclo for o while y tambien se usa para las sentencias if. 
