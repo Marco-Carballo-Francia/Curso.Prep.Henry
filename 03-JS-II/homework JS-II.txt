@@ -1,0 +1,15 @@
+for:
+  Los bucles for sirven para que se repita un bloque de códigos una cantidad de ciertas veces para no estar escribiendo las mismas lineas de código. Esto fasilita la lectura y acorta el tiempo de tipeo.
+
+Operadores lógicos:
+  Los operadores lógicos se utilizan para unir de diferentes maneras dos condiciones de un ciclo for o while y tambien se usa para las sentencias if. 
+  Se dividen en 3 (&&, ||, !):
+    &&:
+      Este operador lógico significa "Y"/"AND" y al unir las condiciones si o si tienen que ser verdaderas las dos condicones para que la sentencias sea verdadera. 
+      Ej:  if (condición $$ condición), para que de verdadero y corra el bloque de codigo las dos condiciones tienen que ser verdaderas.
+    ||:
+      Este operador lógico significa "O"/"OR" y al unir las condiciones no hace falta que las dos si o si sean verdaderas. La sentencia da verdadera cuando una de las condiciones lo es.
+      Ej: if (condición || condición), si una de las dos condiciones es verdadera, el bloque de código se pordra correr.
+    !:
+      Este operador lógico significa "NO"/"NOT" y lo que hace es invertir la lógica de las condiciones. 
+      Ej: if (!(condición === 5), en ves de que la lógica sea que la condición sea igual a 5 este operador lo invierte haciendo que la condición seaa diferente a 5. 
