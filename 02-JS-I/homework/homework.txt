@@ -1,0 +1,20 @@
+Variable:
+  Las variables se utilizan para almacenar valores que se utilizan dentro del programa. 
+
+String:
+  Unos de los valores que se pueden almacenar en las variables son los string (cadenas), que ahí, resumiendo, es donde se almacenan las palabras u oraciones que querramos utilizar en el programa.
+
+Función:
+  Las funciones se utilizan para simplificar el código de un programa almacenando un bloque de códigos para no tener que estar repitiendo las mismas instancias cada ves que nos surja el mismo problema.
+  Dentro de las funciones se encuentra el argumento y el return.
+  Argumento:
+    El argumento de una función sería el bloque de codigo que tiene dentro de la misma, que resuelve una situación específica.
+  return:
+    El return es lo que se encuentra dentro del argumento en la función, y lo que hace es cortar el bloque donde se encuentra el return y finalizar la función.
+
+Declaración if:
+  La declaración if se utiliza junto con una condición la cual esta seguida de unos "()" y dentro de ellos se escribe dicha condición. Para lo que se utiliza el if es para saber si esa condición es verdadera o falsa.
+
+Valores booleanos (true, false):
+  Los valores booleanos se dividen en dos true y false. Esto quiere decir que el resultado o valor de una dicha variables es entre true o false, no hay otro valor. Las declaraciones if utilizan valores booleanospara definir el resultado de sus condiciones.
+  
