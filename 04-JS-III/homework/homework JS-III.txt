@@ -1,0 +1,5 @@
+Arrays:
+  Los Arrays o "Arreglos" tienen la función como la de una lista, que seria almacenar varios elementos y sin tipados especificos.
+  Esto quiere decir que los elementos pueden tener distintas clses de tipos y estar dentro de el mismo Array.
+  En los Arrays, los elementos dentro del mismo tienen su lugar definido y se los pueden llamar a cada uno de estos elemento con los nros de indice que van de 0 al N.
+  
