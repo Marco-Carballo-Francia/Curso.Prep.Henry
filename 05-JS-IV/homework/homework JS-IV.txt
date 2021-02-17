@@ -1,0 +1,24 @@
+Objetos:
+    Los objetos son contenedores de datos como los arrays o matrices, solo que los objetos tienen mucha mas información y por lo general esta basada en una sola cosa o tema.
+    Son como los arrays solo que, no tienen un indice prederterminado. esto queire decir que a sus elementos se lo pueden llamr de una manera mas facil y rapida que en un array.
+    Los objetos al igual que los arrays no tienen tipos de propiedades determinadas.
+
+Propiedades:
+    Las propiedades, tambien llamada "key: value" (quiere decir "clave: valor"),son el cuerpo del objeto en el cual se esta trabajando.
+    Eso quiere decir que las propiedades son los datos y el valor de esos datos. Las propiedades son las que se llaman, como las variables, para poder utilizar su valor  
+
+Métodos:
+    Se definen métodos a las propiedades del objeto que tienen en su interior, como un valor, una función.
+
+Bucle for…in:
+    Como en los objetos no se puede usar un "for" normal, JavaScript diseño el bucle "for…in" que hace una iteración en el objeto para que se recorra por completo.
+    Funcióna de la siguiente manera: 
+        Dentro del "for" se declara una variable (cualquiera), seguido de la palabra clave "in" y despues el nombre del objeto. 
+        Todo eso dentro del parentesis de la declaración del "for".
+        Esto hará que se repita el bucle hasta que itere todas las claves del objeto
+
+Notación de puntos vs notación de corchetes:
+    La diferencia de estas dos opciones de llamado es la siguiente:
+        La notación de puntos es mas simple y a la ves mas rapida para hacer un llamado. Solo se necesita escribir el nombre del objeto un punto y seguido la propiedad deseada.
+        La notación de corchetes hace la misma función pero es un poco mas lenta. Esta a su ves tiene la ventaja de ser mas precisa y previene errores comunes al llamado de una propiedad del objeto.
+        
