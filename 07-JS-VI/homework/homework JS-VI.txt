@@ -1,0 +1,2 @@
+Funciones Callback:
+    Los importantes de los Callback es la capasidad de pasar funciones como argumentos a otras funciones. esto hace que el codigo sea mas legible y a la ves sea mas practico a la hora de trabajar en el mismo codigo.
