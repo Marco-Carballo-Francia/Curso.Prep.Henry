@@ -1,0 +1,9 @@
+prototype:
+    El prototype consiste en crear metodos para las clases sin tener que ocupar mucho almacenamiento en la memoria. 
+    Esto hace que se hagan llamadas a los metodos y que no se tengan que crear. lo hace mas rapido a la hora de programar y mas sencillo una ves que conoces el procedimiento.
+    Sin el prototype se tendria que crear metodos de la manera tradicional ocupando almacenamiento en la memoria.
+
+Constructors class (de Clases):
+    Los constructores de clases lo que hacen es heredar sus propiedades a dicho objeto. 
+    Ej, un alumno hereda la clase Persona con sus dichas propiedades solo que para cada alumno sus valores cambian.
+
