@@ -9,8 +9,9 @@ function crearGato(nombre, edad) {
   var gato = {
     nombre: nombre,
     edad: edad,
-    meow: function(){
-      return "Meow!";}
+    meow: function() {
+      return "Meow!";
+    }
   }
   return gato;
 }
@@ -113,7 +114,7 @@ function pasarUsuarioAPremium(usuarios) {
   // Define cada propiedad "esPremium" de cada objeto como "true"
   // Devuelve el array de usuarios
   // Tu código:
-  for (var i = 0; i < usuarios.length; i++){
+  for (var i = 0; i < usuarios.length; i++) {
     usuarios[i].esPremium = true;
   }
   return usuarios;
@@ -127,6 +128,7 @@ function sumarLikesDeUsuario(usuario) {
   // Devuelve la suma
   // Tu código:
   var suma = 0;
+  
   for (var i = 0; i < usuario.posts.length; i++) {
     suma = suma + usuario.posts[i].likes;
   }
